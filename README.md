@@ -1,4 +1,7 @@
 # Foodie-Express
+Team Members 
+-Ashan Raj
+-Jani Saida
 web-based service that allows customers to simply access menu of a restaurant, and get food delivered to
 their address. Developed using React.js and Firebase for fetching food items and order conformaton.
 ![image](https://user-images.githubusercontent.com/83868114/190483533-f3390304-5bbb-4ff1-a00b-7cfeef4e97d0.png)
